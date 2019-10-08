@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test</string>
+    <string-array name="fPeople">
+        <item>高等数学</item>
+        <item>高等英语</item>
+    </string-array>
+</resources>
